@@ -1,4 +1,4 @@
-# client
+# GraphQl-Vue
 
 ## Project setup
 ```
