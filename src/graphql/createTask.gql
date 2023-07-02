@@ -1,0 +1,11 @@
+mutation createTask($name:String!){
+    createTask(name:$name)
+    {
+        id,
+        user{
+            id,
+            name
+        },
+        name
+    }
+}
