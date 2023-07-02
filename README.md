@@ -1,4 +1,3 @@
-## GraphQl-Vue
 
 ## Project setup
 ```
